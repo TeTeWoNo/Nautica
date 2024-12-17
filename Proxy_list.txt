@@ -1,13 +1,21 @@
 172.232.239.151,587,ID,Akamai Technologies 🇲🇨
+172.232.239.139,587,ID,Akamai Technologies 🇲🇨
+172.232.239.175,587,ID,Akamai Technologies 🇲🇨
+36.95.152.58,12137,ID,TELKOM 🇲🇨
+108.136.167.35,11443,ID,AMAZON 🇲🇨
+43.218.77.16,443,ID,AMAZON 🇲🇨
+43.218.77.16,1443,ID,AMAZON 🇲🇨
 35.219.15.90,443,ID,Google LLC 🇲🇨
 35.219.50.99,443,ID,Google LLC 🇲🇨
 203.194.112.119,8443,ID,Rumahweb 🇲🇨
+203.194.112.119,2053,ID,Rumahweb 🇲🇨
 103.186.1.209,2053,ID,Pt Cloud Hosting 🇲🇨
 103.186.1.209,8443,ID,Pt Cloud Hosting 🇲🇨
 103.133.223.50,2096,ID,Pt Cloud Teknologi 🇲🇨
 103.133.223.51,2096,ID,Pt Cloud Teknologi 🇲🇨
 103.133.223.52,2096,ID,Pt Cloud Teknologi 🇲🇨
 103.168.146.169,20132,ID,Pt Herza Digital 🇲🇨
+206.237.98.76,587,ID,Pt Herza Digital 🇲🇨
 103.6.207.108,8080,ID,Pt Pusat Media 🇲🇨
 43.133.145.156,53136,ID,Shenzhen Tencent 🇲🇨
 45.60.186.91,443,US,Incapsula INC 🇺🇲
