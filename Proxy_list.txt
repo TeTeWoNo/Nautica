@@ -11,8 +11,10 @@
 43.133.145.156,53136,ID,Shenzhen Tencent 🇲🇨
 45.60.186.91,443,US,Incapsula INC 🇺🇲
 103.3.63.253,46683,SG,Akamai Technologies 🇸🇬
+139.162.33.248,587,SG,Akamai Technologies 🇸🇬
 139.162.48.174,10000,SG,Akamai Technologies 🇸🇬
 139.177.190.120,2053,SG,Akamai Technologies 🇸🇬
+139.177.190.120,8443,SG,Akamai Technologies 🇸🇬
 143.42.68.97,17055,SG,Akamai Technologies 🇸🇬
 172.104.170.159,2053,SG,Akamai Technologies 🇸🇬
 172.104.170.159,8443,SG,Akamai Technologies 🇸🇬
@@ -29,8 +31,39 @@
 47.74.254.191,8900,SG,Alibaba us Technology🇸🇬
 47.88.221.55,6446,SG,Alibaba us Technology🇸🇬
 161.117.249.114,2025,SG,Alibaba us Technology🇸🇬
+8.219.3.213,41074,SG,Alibaba us Technology🇸🇬
+8.219.3.213,58272,SG,Alibaba us Technology🇸🇬
+8.219.14.21,23943,SG,Alibaba us Technology🇸🇬
+8.219.50.5,29220,SG,Alibaba us Technology🇸🇬
+8.219.58.164,57373,SG,Alibaba us Technology🇸🇬
+8.219.59.132,48130,SG,Alibaba us Technology🇸🇬
+8.219.59.132,48964,SG,Alibaba us Technology🇸🇬
+8.219.77.72,5027,SG,Alibaba us Technology🇸🇬
+8.219.79.88,443,SG,Alibaba us Technology🇸🇬
+8.219.163.164,36261,SG,Alibaba us Technology🇸🇬
+8.219.170.57,8000,SG,Alibaba us Technology🇸🇬
+8.219.197.113,45714,SG,Alibaba us Technology🇸🇬
+8.222.143.82,24245,SG,Alibaba us Technology🇸🇬
+8.222.173.58,23390,SG,Alibaba us Technology🇸🇬
+8.222.178.214,6666,SG,Alibaba us Technology🇸🇬
+8.222.212.110,1103,SG,Alibaba us Technology🇸🇬
+8.222.220.81,25435,SG,Alibaba us Technology🇸🇬
+8.222.243.73,26385,SG,Alibaba us Technology🇸🇬
+47.236.22.194,52324,SG,Alibaba us Technology🇸🇬
+47.236.25.107,27903,SG,Alibaba us Technology🇸🇬
+47.236.86.17,49257,SG,Alibaba us Technology🇸🇬
+47.236.119.190,51342,SG,Alibaba us Technology🇸🇬
+47.236.173.166,587,SG,Alibaba us Technology🇸🇬
+47.236.181.185,8443,SG,Alibaba us Technology🇸🇬
+47.236.246.163,14108,SG,Alibaba us Technology🇸🇬
+47.237.12.70,54374,SG,Alibaba us Technology🇸🇬
+47.245.86.45,40692,SG,Alibaba us Technology🇸🇬
+47.245.91.197,9000,SG,Alibaba us Technology🇸🇬
+47.245.95.160,1443,SG,Alibaba us Technology🇸🇬
+161.117.249.114,2025,SG,Alibaba us Technology🇸🇬
 18.141.140.120,30011,SG,Amazon.com Inc 🇸🇬
 18.141.114.130,50450,SG,Amazon.com Inc 🇸🇬
+18.141.114.130,52132,SG,Amazon.com Inc 🇸🇬
 52.74.101.26,443,SG,Amazon.com Inc 🇸🇬
 52.77.219.142,5432,SG,Amazon.com Inc 🇸🇬
 185.114.78.230,443,SG,Aryaka Networks inc 🇸🇬
@@ -61,37 +94,162 @@
 178.128.48.16,2053,SG,Digital Ocean LLC 🇸🇬
 188.166.255.195,8443,SG,Digital Ocean LLC 🇸🇬
 206.189.157.190,8443,SG,Digital Ocean LLC🇸🇬
+68.183.179.5,2053,SG,Digital Ocean LLC🇸🇬
+68.183.179.5,8443,SG,Digital Ocean LLC🇸🇬
+104.248.146.212,8443,SG,Digital Ocean LLC🇸🇬
+104.248.154.142,2053,SG,Digital Ocean LLC🇸🇬
+104.248.154.142,8443,SG,Digital Ocean LLC🇸🇬
+128.199.171.100,2053,SG,Digital Ocean LLC🇸🇬
+128.199.171.100,8443,SG,Digital Ocean LLC🇸🇬
+128.199.218.226,443,SG,Digital Ocean LLC🇸🇬
+143.198.85.62,18163,SG,Digital Ocean LLC🇸🇬
+143.198.85.62,49270,SG,Digital Ocean LLC🇸🇬
+143.198.196.196,2053,SG,Digital Ocean LLC🇸🇬
+143.198.196.196,8443,SG,Digital Ocean LLC🇸🇬
+143.198.213.197,8443,SG,Digital Ocean LLC🇸🇬
+146.190.192.88,8443,SG,Digital Ocean LLC🇸🇬
+152.42.230.65,2053,SG,Digital Ocean LLC🇸🇬
+152.42.172.170,8443,SG,Digital Ocean LLC🇸🇬
+152.42.233.116,8443,SG,Digital Ocean LLC🇸🇬
+163.47.9.27,8443,SG,Digital Ocean LLC🇸🇬
+167.71.194.185,8443,SG,Digital Ocean LLC🇸🇬
+167.71.219.234,2053,SG,Digital Ocean LLC🇸🇬
+167.71.219.234,8443,SG,Digital Ocean LLC🇸🇬
+167.172.90.142,8443,SG,Digital Ocean LLC🇸🇬
+178.128.48.16,8443,SG,Digital Ocean LLC🇸🇬
+178.128.54.16,2053,SG,Digital Ocean LLC🇸🇬
+178.128.54.16,8443,SG,Digital Ocean LLC🇸🇬
+178.128.80.43,443,SG,Digital Ocean LLC🇸🇬
+178.128.89.45,8443,SG,Digital Ocean LLC🇸🇬
+178.128.91.137,443,SG,Digital Ocean LLC🇸🇬
+188.166.199.61,443,SG,Digital Ocean LLC🇸🇬
+188.166.196.212,2053,SG,Digital Ocean LLC🇸🇬
+188.166.241.181,2053,SG,Digital Ocean LLC🇸🇬
+188.166.241.181,8443,SG,Digital Ocean LLC🇸🇬
+206.189.157.190,2053,SG,Digital Ocean LLC🇸🇬
 5.223.41.214,8443,SG,Hetzner Online GmbH 🇸🇬
 5.223.49.4,2053,SG,Hetzner Online GmbH 🇸🇬
+5.223.41.42,443,SG,Hetzner Online GmbH 🇸🇬
+5.223.41.156,8080,SG,Hetzner Online GmbH 🇸🇬
 103.180.161.69,587,SG,HONG KONG Megalayer 🇸🇬
 103.180.161.123,587,SG,HONG KONG Megalayer 🇸🇬
+103.40.11.26,587,SG,HONG KONG Megalayer 🇸🇬
+103.180.161.10,587,SG,HONG KONG Megalayer 🇸🇬
 190.92.213.24,443,SG,HUAWEI INTERNATIONAL 🇸🇬
 111.119.207.137,12345,SG,HUAWEI INTERNATIONAL 🇸🇬
 160.22.79.174,443,SG,Hypercore Cloud Hosting 🇸🇬
 38.54.16.95,2053,SG,Kaopu Cloud HK 🇸🇬
 38.54.16.222,2053,SG,Kaopu Cloud HK 🇸🇬
+38.54.16.222,8443,SG,Kaopu Cloud HK 🇸🇬
 64.49.14.41,2053,SG,Latitude sh 🇸🇬
 64.49.14.41,8443,SG,Latitude sh  🇸🇬
 167.253.158.63,8443,SG,LEASEWEB SINGAPORE PTE🇸🇬
 194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE🇸🇬
+69.161.221.117,63258,SG,LEASEWEB SINGAPORE PTE🇸🇬
+167.253.158.63,2053,SG,LEASEWEB SINGAPORE PTE🇸🇬
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE🇸🇬
 91.192.81.154,2053,SG,Melbikomas Uab 🇸🇬
 91.192.81.154,8443,SG,Melbikomas Uab 🇸🇬
 4.193.111.126,40809,SG,Microsoft Corporation 🇸🇬
 20.198.241.32,2053,SG,Microsoft Corporation 🇸🇬
+20.198.241.32,8443,SG,Microsoft Corporation 🇸🇬
 38.180.190.136,2053,SG,M Europe SRL 🇸🇬
 84.247.49.210,8443,SG,M Europe SRL 🇸🇬
+38.180.190.136,8443,SG,M Europe SRL 🇸🇬
+84.247.49.211,8443,SG,M Europe SRL 🇸🇬
+194.36.178.36,2053,SG,Neapol Group Ltd 🇸🇬
+194.36.178.36,8443,SG,Neapol Group Ltd 🇸🇬
+194.36.178.132,443,SG,Neapol Group Ltd 🇸🇬
+194.36.179.17,8443,SG,Neapol Group Ltd 🇸🇬
+194.36.179.17,2053,SG,Neapol Group Ltd 🇸🇬
 185.217.5.3,443,SG,Npo G Net 🇸🇬
-158.178.240.232,10258,SG,Oracle Corporation 🇸🇬
-158.178.240.232,23559,SG,Oracle Corporation 🇸🇬
-138.2.74.219,28616,SG,Oracle Corporation 🇸🇬
+213.35.100.31,47112,SG,Oracle Corporation 🇸🇬
+213.35.115.254,23936,SG,Oracle Corporation 🇸🇬
+129.150.36.188,53435,SG,Oracle Corporation 🇸🇬
+129.150.41.174,16462,SG,Oracle Corporation 🇸🇬
+129.150.49.58,18650,SG,Oracle Corporation 🇸🇬
+129.150.50.63,443,SG,Oracle Corporation 🇸🇬
+129.150.50.21,44009,SG,Oracle Corporation 🇸🇬
+129.150.58.86,57621,SG,Oracle Corporation 🇸🇬
+129.150.62.1,24016,SG,Oracle Corporation 🇸🇬
+138.2.66.92,443,SG,Oracle Corporation 🇸🇬
+138.2.69.236,23334,SG,Oracle Corporation 🇸🇬
+138.2.75.219,39341,SG,Oracle Corporation 🇸🇬
+138.2.77.179,30018,SG,Oracle Corporation 🇸🇬
+138.2.81.243,45319,SG,Oracle Corporation 🇸🇬
+138.2.85.23,8080,SG,Oracle Corporation 🇸🇬
+138.2.89.64,32962,SG,Oracle Corporation 🇸🇬
+138.2.89.238,43254,SG,Oracle Corporation 🇸🇬
+138.2.90.127,55555,SG,Oracle Corporation 🇸🇬
+138.2.91.98,9711,SG,Oracle Corporation 🇸🇬
+138.2.95.33,17465,SG,Oracle Corporation 🇸🇬
+138.2.95.61,1111,SG,Oracle Corporation 🇸🇬
+138.2.100.221,26621,SG,Oracle Corporation 🇸🇬
+138.2.101.213,15204,SG,Oracle Corporation 🇸🇬
+138.2.109.23,587,SG,Oracle Corporation 🇸🇬
+138.2.111.140,10010,SG,Oracle Corporation 🇸🇬
+140.245.34.185,59320,SG,Oracle Corporation 🇸🇬
+140.245.51.131,4443,SG,Oracle Corporation 🇸🇬
+140.245.61.163,39863,SG,Oracle Corporation 🇸🇬
+140.245.62.109,8443,SG,Oracle Corporation 🇸🇬
+140.245.62.109,2053,SG,Oracle Corporation 🇸🇬
+146.235.16.65,15174,SG,Oracle Corporation 🇸🇬
+146.235.18.248,45137,SG,Oracle Corporation 🇸🇬
+152.69.210.245,2053,SG,Oracle Corporation 🇸🇬
+152.69.221.114,23302,SG,Oracle Corporation 🇸🇬
+152.69.220.136,53076,SG,Oracle Corporation 🇸🇬
+158.178.225.124,12934,SG,Oracle Corporation 🇸🇬
+158.178.225.124,37497,SG,Oracle Corporation 🇸🇬
+158.178.225.124,37461,SG,Oracle Corporation 🇸🇬
+158.178.225.124,53618,SG,Oracle Corporation 🇸🇬
+158.178.228.8,10010,SG,Oracle Corporation 🇸🇬
+158.178.236.14,61731,SG,Oracle Corporation 🇸🇬
+158.178.246.142,61731,SG,Oracle Corporation 🇸🇬
+168.138.160.54,19081,SG,Oracle Corporation 🇸🇬
+168.138.166.213,10500,SG,Oracle Corporation 🇸🇬
+168.138.170.211,53702,SG,Oracle Corporation 🇸🇬
+168.138.171.70,23280,SG,Oracle Corporation 🇸🇬
+168.138.178.6,19990,SG,Oracle Corporation 🇸🇬
+168.138.181.188,61731,SG,Oracle Corporation 🇸🇬
+168.138.183.48,9090,SG,Oracle Corporation 🇸🇬
+168.138.184.142,19191,SG,Oracle Corporation 🇸🇬
+213.35.107.73,443,SG,Oracle Corporation 🇸🇬
+213.35.108.135,12596,SG,Oracle Corporation 🇸🇬
+213.35.125.129,6434,SG,Oracle Corporation 🇸🇬
+158.178.240.232,10258,SG,Oracle Corporation+🇸🇬
+158.178.240.232,23559,SG,Oracle Corporation+🇸🇬
+138.2.74.219,28616,SG,Oracle Corporation+🇸🇬
 15.235.162.49,443,SG,OVH SAS 🇸🇬
 51.79.254.182,443,SG,OVH SAS 🇸🇬
 139.99.83.49,20380,SG,OVH SAS 🇸🇬
+15.235.197.205,587,SG,OVH SAS 🇸🇬
+15.235.199.103,2053,SG,OVH SAS 🇸🇬
+15.235.199.103,8443,SG,OVH SAS 🇸🇬
+51.79.145.13,8443,SG,OVH SAS 🇸🇬
+51.79.158.58,2053,SG,OVH SAS 🇸🇬
+51.79.158.58,8443,SG,OVH SAS 🇸🇬
+51.79.158.126,443,SG,OVH SAS 🇸🇬
+51.79.161.46,20380,SG,OVH SAS 🇸🇬
+51.79.161.46,50622,SG,OVH SAS 🇸🇬
+51.79.250.33,2053,SG,OVH SAS 🇸🇬
+51.79.250.33,8443,SG,OVH SAS 🇸🇬
+139.99.83.49,50622,SG,OVH SAS 🇸🇬
 206.206.76.208,2053,SG,Regxa Company for 🇸🇬
 206.206.76.208,8443,SG,Regxa Company for 🇸🇬
 43.156.110.170,19933,SG,Shenzhen Tencent 🇸🇬
 101.32.247.126,725,SG,Shenzhen Tencent 🇸🇬
 150.109.94.144,8900,SG,Shenzhen Tencent 🇸🇬
+43.128.95.84,38091,SG,Shenzhen Tencent 🇸🇬
+43.134.5.247,23509,SG,Shenzhen Tencent 🇸🇬
+43.134.34.18,443,SG,Shenzhen Tencent 🇸🇬
+43.134.48.40,443,SG,Shenzhen Tencent 🇸🇬
+43.134.181.60,38371,SG,Shenzhen Tencent 🇸🇬
+43.156.6.97,10392,SG,Shenzhen Tencent 🇸🇬
+43.156.16.213,31528,SG,Shenzhen Tencent 🇸🇬
+43.156.26.205,23654,SG,Shenzhen Tencent 🇸🇬
+43.156.56.22,7676,SG,Shenzhen Tencent 🇸🇬
+43.156.97.73,57145,SG,Shenzhen Tencent 🇸🇬
+45.32.100.46,13802,SG,Shenzhen Tencent 🇸🇬
 119.81.201.154,9089,SG,SoftLayer Technologies 🇸🇬
 194.9.62.132,34646,SG,SpeedyPage LTD 🇸🇬
 194.9.62.132,57255,SG,SpeedyPage LTD 🇸🇬
@@ -99,7 +257,29 @@
 45.77.171.102,3128,SG,The Constant Company 🇸🇬
 64.176.84.144,81,SG,The Constant Company 🇸🇬
 139.180.215.77,57878,SG,The Constant Company 🇸🇬
+45.32.100.46,13802,SG,The Constant Company 🇸🇬
+45.76.156.96,2053,SG,The Constant Company 🇸🇬
+45.76.156.96,8443,SG,The Constant Company 🇸🇬
+45.76.160.124,444,SG,The Constant Company 🇸🇬
+45.76.186.84,2053,SG,The Constant Company 🇸🇬
+45.76.183.217,49292,SG,The Constant Company 🇸🇬
+45.77.247.200,4643,SG,The Constant Company 🇸🇬
+45.77.36.40,443,SG,The Constant Company 🇸🇬
+139.180.131.125,10005,SG,The Constant Company 🇸🇬
+139.180.136.178,29806,SG,The Constant Company 🇸🇬
+139.180.136.178,29661,SG,The Constant Company 🇸🇬
+139.180.144.170,666,SG,The Constant Company 🇸🇬
+149.28.135.16,16479,SG,The Constant Company 🇸🇬
+207.148.65.19,56767,SG,The Constant Company 🇸🇬
+207.148.68.228,80,SG,The Constant Company 🇸🇬
+207.148.77.176,30778,SG,The Constant Company 🇸🇬
+207.148.122.83,2053,SG,The Constant Company 🇸🇬
+207.148.122.83,8443,SG,The Constant Company 🇸🇬
 94.237.75.31,62174,SG,UpCloud LTD 🇸🇬
 94.237.75.31,62174,SG,UpCloud LTD 🇸🇬
+95.111.196.51,2053,SG,UpCloud LTD 🇸🇬
+95.111.194.218,2053,SG,UpCloud LTD 🇸🇬
+95.111.196.51,8443,SG,UpCloud LTD 🇸🇬
+95.111.194.218,8443,SG,UpCloud LTD 🇸🇬
 27.0.234.74,2911,SG,WebHorizon Internet 🇸🇬
 27.0.234.146,19886,SG,WebHorizon Internet 🇸🇬
