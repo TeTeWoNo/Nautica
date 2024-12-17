@@ -1,0 +1,105 @@
+172.232.239.151,587,ID,Akamai Technologies 🇲🇨
+35.219.15.90,443,ID,Google LLC 🇲🇨
+203.194.112.119,8443,ID,Rumahweb 🇲🇨
+103.186.1.209,2053,ID,Pt Cloud Hosting 🇲🇨
+103.186.1.209,8443,ID,Pt Cloud Hosting 🇲🇨
+103.133.223.50,2096,ID,Pt Cloud Teknologi 🇲🇨
+103.133.223.51,2096,ID,Pt Cloud Teknologi 🇲🇨
+103.133.223.52,2096,ID,Pt Cloud Teknologi 🇲🇨
+103.168.146.169,20132,ID,Pt Herza Digital 🇲🇨
+103.6.207.108,8080,ID,Pt Pusat Media 🇲🇨
+43.133.145.156,53136,ID,Shenzhen Tencent 🇲🇨
+45.60.186.91,443,US,Incapsula INC 🇺🇲
+103.3.63.253,46683,SG,Akamai Technologies 🇸🇬
+139.162.48.174,10000,SG,Akamai Technologies 🇸🇬
+139.177.190.120,2053,SG,Akamai Technologies 🇸🇬
+143.42.68.97,17055,SG,Akamai Technologies 🇸🇬
+172.104.170.159,2053,SG,Akamai Technologies 🇸🇬
+172.104.170.159,8443,SG,Akamai Technologies 🇸🇬
+192.53.113.156,587,SG,Akamai Technologies 🇸🇬
+103.248.228.70,28359,SG,Akari Networks 🇸🇬
+103.248.228.247,28359,SG,Akari Networks 🇸🇬
+185.81.28.95,30503,ID,AKILE LTD 🇸🇬
+185.81.29.113,8080,ID,AKILE LTD 🇸🇬
+185.126.80.215,25565,ID,AKILE LTD 🇸🇬
+8.219.237.57,31523,SG,Alibaba us Technology🇸🇬
+8.219.254.209,41101,SG,Alibaba us Technology🇸🇬
+8.222.129.175,58808,SG,Alibaba us Technology🇸🇬
+8.222.250.88,443,SG,Alibaba us Technology🇸🇬
+47.74.254.191,8900,SG,Alibaba us Technology🇸🇬
+47.88.221.55,6446,SG,Alibaba us Technology🇸🇬
+161.117.249.114,2025,SG,Alibaba us Technology🇸🇬
+18.141.140.120,30011,SG,Amazon.com Inc 🇸🇬
+18.141.114.130,50450,SG,Amazon.com Inc 🇸🇬
+52.74.101.26,443,SG,Amazon.com Inc 🇸🇬
+52.77.219.142,5432,SG,Amazon.com Inc 🇸🇬
+185.114.78.230,443,SG,Aryaka Networks inc 🇸🇬
+103.40.11.26,587,SG,BPGNET PTE LTD 🇸🇬
+89.34.227.166,443,SG,ByteVirt LLC 🇸🇬
+89.34.227.5,33203,SG,ByteVirt LLC 🇸🇬
+45.129.228.31,8443,SG,Catixs LTD 🇸🇬
+164.52.2.100,443,SG,Cds Global Cloud 🇸🇬
+31.192.238.71,2053,SG,Chelyabinsk Signal LLC🇸🇬
+31.192.238.71,8443,SG,Chelyabinsk Signal LLC🇸🇬
+62.72.46.14,8443,SG,Contabo Asia Private 🇸🇬
+82.197.69.135,43536,SG,Contabo Asia Private 🇸🇬
+68.183.179.5,2053,SG,Digital Ocean LLC 🇸🇬
+68.183.179.5,8443,SG,Digital Ocean LLC 🇸🇬
+38.181.70.7,16240,SG,Eons Data Communications 🇸🇬
+194.36.179.17,8443,SG,FIRST SERVER LIMITED 🇸🇬
+194.36.179.17,2053,SG,FIRST SERVER LIMITED 🇸🇬
+104.248.145.216,443,SG,Digital Ocean LLC 🇸🇬
+104.248.146.212,2053,SG,Digital Ocean LLC 🇸🇬
+128.199.177.142,8443,SG,Digital Ocean LLC 🇸🇬
+143.198.85.62,41536,SG,Digital Ocean LLC 🇸🇬
+146.190.111.165,443,SG,Digital Ocean LLC 🇸🇬
+152.42.233.116,2053,SG,Digital Ocean LLC 🇸🇬
+157.245.158.97,8443,SG,Digital Ocean LLC 🇸🇬
+159.65.135.51,2053,SG,Digital Ocean LLC 🇸🇬
+163.47.9.27,2053,SG,Digital Ocean LLC 🇸🇬
+167.71.219.234,2053,SG,Digital Ocean LLC 🇸🇬
+178.128.48.16,2053,SG,Digital Ocean LLC 🇸🇬
+188.166.255.195,8443,SG,Digital Ocean LLC 🇸🇬
+206.189.157.190,8443,SG,Digital Ocean LLC🇸🇬
+5.223.41.214,8443,SG,Hetzner Online GmbH 🇸🇬
+5.223.49.4,2053,SG,Hetzner Online GmbH 🇸🇬
+103.180.161.69,587,SG,HONG KONG Megalayer 🇸🇬
+103.180.161.123,587,SG,HONG KONG Megalayer 🇸🇬
+190.92.213.24,443,SG,HUAWEI INTERNATIONAL 🇸🇬
+111.119.207.137,12345,SG,HUAWEI INTERNATIONAL 🇸🇬
+160.22.79.174,443,SG,Hypercore Cloud Hosting 🇸🇬
+38.54.16.95,2053,SG,Kaopu Cloud HK 🇸🇬
+38.54.16.222,2053,SG,Kaopu Cloud HK 🇸🇬
+64.49.14.41,2053,SG,Latitude sh 🇸🇬
+64.49.14.41,8443,SG,Latitude sh  🇸🇬
+167.253.158.63,8443,SG,LEASEWEB SINGAPORE PTE🇸🇬
+194.127.193.124,24467,SG,LEASEWEB SINGAPORE PTE🇸🇬
+91.192.81.154,2053,SG,Melbikomas Uab 🇸🇬
+91.192.81.154,8443,SG,Melbikomas Uab 🇸🇬
+4.193.111.126,40809,SG,Microsoft Corporation 🇸🇬
+20.198.241.32,2053,SG,Microsoft Corporation 🇸🇬
+38.180.190.136,2053,SG,M Europe SRL 🇸🇬
+84.247.49.210,8443,SG,M Europe SRL 🇸🇬
+185.217.5.3,443,SG,Npo G Net 🇸🇬
+158.178.240.232,10258,SG,Oracle Corporation 🇸🇬
+158.178.240.232,23559,SG,Oracle Corporation 🇸🇬
+138.2.74.219,28616,SG,Oracle Corporation 🇸🇬
+15.235.162.49,443,SG,OVH SAS 🇸🇬
+51.79.254.182,443,SG,OVH SAS 🇸🇬
+139.99.83.49,20380,SG,OVH SAS 🇸🇬
+206.206.76.208,2053,SG,Regxa Company for 🇸🇬
+206.206.76.208,8443,SG,Regxa Company for 🇸🇬
+43.156.110.170,19933,SG,Shenzhen Tencent 🇸🇬
+101.32.247.126,725,SG,Shenzhen Tencent 🇸🇬
+150.109.94.144,8900,SG,Shenzhen Tencent 🇸🇬
+119.81.201.154,9089,SG,SoftLayer Technologies 🇸🇬
+194.9.62.132,34646,SG,SpeedyPage LTD 🇸🇬
+194.9.62.132,57255,SG,SpeedyPage LTD 🇸🇬
+43.245.198.240,587,SG,Techavenue 🇸🇬
+45.77.171.102,3128,SG,The Constant Company 🇸🇬
+64.176.84.144,81,SG,The Constant Company 🇸🇬
+139.180.215.77,57878,SG,The Constant Company 🇸🇬
+94.237.75.31,62174,SG,UpCloud LTD 🇸🇬
+94.237.75.31,62174,SG,UpCloud LTD 🇸🇬
+27.0.234.74,2911,SG,WebHorizon Internet 🇸🇬
+27.0.234.146,19886,SG,WebHorizon Internet 🇸🇬
