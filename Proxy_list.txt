@@ -30,9 +30,9 @@
 192.53.113.156,587,SG,Akamai Technologies 🇸🇬
 103.248.228.70,28359,SG,Akari Networks 🇸🇬
 103.248.228.247,28359,SG,Akari Networks 🇸🇬
-185.81.28.95,30503,ID,AKILE LTD 🇸🇬
-185.81.29.113,8080,ID,AKILE LTD 🇸🇬
-185.126.80.215,25565,ID,AKILE LTD 🇸🇬
+185.81.28.95,30503,SG,AKILE LTD 🇸🇬
+185.81.29.113,8080,SG,AKILE LTD 🇸🇬
+185.126.80.215,25565,SG,AKILE LTD 🇸🇬
 8.219.237.57,31523,SG,Alibaba us Technology🇸🇬
 8.219.254.209,41101,SG,Alibaba us Technology🇸🇬
 8.222.129.175,58808,SG,Alibaba us Technology🇸🇬
