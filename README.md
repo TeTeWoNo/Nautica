@@ -17,13 +17,17 @@ Sebuah repository serverless tunnel studi kasus Indonesia
 - [x] Registrasi wildcard
 - [x] Menambahkan filter
   - [x] Negara `&cc=ID,SG,...`
+- [x] Subscription API
+  - [x] Country Code `&cc=ID,SG,JP,KR,...`
+  - [x] Format `&format=clash` (raw, clash, sfa, bfr, v2ray)
+  - [x] Limit `&limit=10`
+  - [x] VPN `&vpn=vless,trojan,ss`
+  - [x] Port `&port=443,80`
+  - [x] Domain `&domain=zoom.us`
 
 # Todo (Belum Selesai)
 
 - [x] Lebih efisien (Partial) (I hate Javascript btw, jadi males buat benerin)
-- [ ] Menambahkan filler
-  - [ ] Subdomain/Wildcard `&subdomain=zaintest.vuclip.com`
-- [ ] Subscription API
 - [ ] Skema URL shadowsocks
 - [ ] Tombol `Deploy to workers` untuk instant deployment
 
