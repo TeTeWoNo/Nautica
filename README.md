@@ -9,6 +9,7 @@ Sebuah repository serverless tunnel studi kasus Indonesia
 - [x] Cache daftar proxy
 - [x] Support TCP dan DoH
 - [x] Transport Websocket CDN dan SNI
+- [x] KV proxy key (proxy berdasarkan country)
 - [x] Pagination
 - [x] Tampilan web bagus dan minimalis (Menurut saya)
 - [x] Dark mode
@@ -24,12 +25,12 @@ Sebuah repository serverless tunnel studi kasus Indonesia
   - [x] VPN `&vpn=vless,trojan,ss`
   - [x] Port `&port=443,80`
   - [x] Domain `&domain=zoom.us`
+- [x] Tombol `Deploy to workers` untuk instant deployment
 
 # Todo (Belum Selesai)
 
 - [x] Lebih efisien (Partial) (I hate Javascript btw, jadi males buat benerin)
 - [ ] Skema URL shadowsocks
-- [ ] Tombol `Deploy to workers` untuk instant deployment
 
 Kode ini masih perlu banyak perbaikan, jadi silahkan berkontribusi dan berikan PR kalian!
 
@@ -38,14 +39,21 @@ Kode ini masih perlu banyak perbaikan, jadi silahkan berkontribusi dan berikan P
 - Harus UUID v4 Variant 2
 - Gunakan security `none`
 - Gunakan DoH di aplikasi VPN kalian jika tidak bisa browsing atau membuka website
-  - Contoh DoH `https://185.222.222.222/dns-query`
+  - Contoh DoH `https://8.8.8.8/dns-query`
 
 # Cara Deploy
 
+## Instant
+
+Klik tombol di bawah  
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/FoolVPN-ID/Nautica)
+
+## Manual
+
 1. Buat akun cloudflare
 2. Buat worker
-3. Copy kode dari `worker.js` ke editor cloudflare worker
-4. Masukkan link daftar proxy kalian ke dalam environemnt variable `PROXY_BANK_URL`
+3. Copy kode dari `_worker.js` ke editor cloudflare worker
+4. (Optional) Masukkan link daftar proxy kalian ke dalam environemnt variable `PROXY_BANK_URL`
 5. (Optional) Masukkan link target reverse proxy ke environment variable `REVERSE_PROXY_TARGET`
 6. Deploy
 7. Buka `https://DOMAIN_WORKER_KALIAN/sub`
@@ -63,10 +71,21 @@ Berikut cara aktivasinya:
 2. Isi `variable` dari baris ke 4-9 sesuai dengan key yang kalian miliki
 3. Deploy
 
+### Aktivasi Wildcard (Custom Domain)
+
+1. Selesaikan langkah [Aktivasi API](#cara-aktivasi-api)
+2. Isi variable `rootDomain` dengan domain utama kalian
+   - Contoh: Domain workers `nautica.foolvpn.me`, berarti domain utamanya adalah `foolvpn.me`
+3. Isi variable `serviceName` dengan nama workers kalian
+   - Contoh: Domain workers `nautica.foolvpn.me`, berarti nama workersnya adalah `nautica`
+4. Buat custom domain di pengaturan workers dengan kombinasi `serviceName`.`rootDomain`
+   - Contoh: `nautica.foolvpn.me`
+
 # Endpoint
 
 - `/` -> Halaman utama reverse proxy
 - `/sub/:page` -> Halaman sub/list akun
+- `/api/v1/sub` -> Subscription link, [Queries](#fitur)
 
 # Footnote
 
